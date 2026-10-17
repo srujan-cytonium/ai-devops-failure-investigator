@@ -1,0 +1,6 @@
+INFO: Starting test suite
+INFO: Loading application modules
+Traceback (most recent call last):
+  File "app.py", line 5, in <module>
+ModuleNotFoundError: No module named 'requests'
+Process exited with code 1

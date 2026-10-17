@@ -1,0 +1,8 @@
+INFO: Starting application
+INFO: Loading configuration
+INFO: Connecting to database
+WARNING: Connection retry 1
+WARNING: Connection retry 2
+ERROR: Connection timed out
+ERROR: Database connection could not be established
+Process exited with code 1

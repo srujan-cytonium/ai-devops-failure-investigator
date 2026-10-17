@@ -1,0 +1,4 @@
+INFO: Starting deployment
+INFO: Uploading application artifact
+ERROR: Permission denied while accessing deployment directory
+Process exited with code 1
